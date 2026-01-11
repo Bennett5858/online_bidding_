@@ -1,2 +1,1 @@
 # online_bidding_system
-finaly_year_project
